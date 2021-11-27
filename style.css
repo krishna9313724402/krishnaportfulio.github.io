@@ -227,8 +227,10 @@ font-size: 40px;
 
 
 .skills-bar .bar .info span {
- font-size: 1rem;
- font-weight: 500;
+ font-size: 1.3rem;
+ font-family: arial;
+ 
+ font-weight: 600;
 }
 
 .skills-bar .bar .info {
