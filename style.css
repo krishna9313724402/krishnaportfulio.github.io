@@ -112,6 +112,10 @@ margin: 0 5px;
 color: black;
 font-weight: 400;
 }
+
+.sociale-menu a:hover{
+ opacity: 0.6;;
+}
 .left-div h1{
  font-size: 37px;
  line-height:50px;
